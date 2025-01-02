@@ -1,36 +1,36 @@
-# Preparing for the Lan Qiao competition
+# Lan Qiao Cup Preparation Guide (C++)
 
-#### Description
-自己蓝桥杯的备赛刷题记录
+## Introduction
 
-#### Software Architecture
-Software architecture description
+This repository contains my solutions to problems I've solved in preparation for the Lan Qiao Cup competition. The problems are solved using C++ and cover various topics commonly tested in the competition.
 
-#### Installation
+## Contact Information
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+If you have any questions or suggestions, feel free to reach out to me at:
 
-#### Instructions
+- Email: 319351378@qq.com
+- Gitee Repository: [Preparing for the Lan Qiao competition: 自己蓝桥杯的备赛刷题记录](https://gitee.com/haohao6/preparing-for-the-lan-qiao-competition)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## Software Architecture
 
-#### Contribution
+This section provides an overview of the software structure used for the problems and solutions.
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+## Installation Guide
+
+1. Clone this repository to your local machine using Git.
+2. Ensure you have a C++ compiler installed (e.g., GCC, Clang).
+3. Compile and run the code using your preferred IDE or command line.
+
+## Usage
+
+1. Navigate to the folder containing the specific problem's solution.
+2. Compile and execute the C++ code to test the solution.
+3. Modify the code for further improvements or testing new cases.
 
 
-#### Gitee Feature
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Contact
+
+- **Email**: 319351378@qq.com
+- **Gitee**: [Preparing for the Lan Qiao competition: 自己蓝桥杯的备赛刷题记录](https://gitee.com/haohao6/preparing-for-the-lan-qiao-competition)
+- **Author:** [浩浩同学 (haohao6) - Gitee.com](https://gitee.com/haohao6)
