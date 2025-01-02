@@ -8,10 +8,6 @@ const int DIRECTIONS[4][2] = {{1, 0}, {0, 1}, {1, 1}, {1, -1}};  // 四个方向：横
 
 // 判断是否有五子连珠
 bool hasFiveInARow(const vector<vector<int>>& board) {
-	
-
-	
-	
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < N; j++) {
             if (board[i][j] == 0) continue;  // 空格子跳过
@@ -46,7 +42,6 @@ int countDraws(vector<vector<int>>& board, int x, int y) {
 			   }
 		   }
 	}
-	
 	if(black != 13) return 0;
 	return 1;
 	}
@@ -64,7 +59,6 @@ int countDraws(vector<vector<int>>& board, int x, int y) {
         }
         board[x][y] = 0;  // 恢复状态
     }
-    
     return totalDraws;
 }
 
