@@ -32,6 +32,6 @@ This section provides an overview of the software structure used for the problem
 ## Contact
 
 - **Email**: 319351378@qq.com
-- **GitHub:** [RookieHaohao/Preparing-for-the-Lan-Qiao-competition: 备战蓝桥杯时刷题的过程和思路](https://github.com/RookieHaohao/Preparing-for-the-Lan-Qiao-competition)
-- **Gitee**: [Preparing for the Lan Qiao competition: 自己蓝桥杯的备赛刷题记录](https://gitee.com/haohao6/preparing-for-the-lan-qiao-competition)
-- **Author:** [浩浩同学 (haohao6) - Gitee.com](https://gitee.com/haohao6)
+- **GitHub:** [RookieHaohao/Preparing-for-the-Lan-Qiao-competition: 自己备战蓝桥杯时刷题的过程和思路](https://github.com/RookieHaohao/Preparing-for-the-Lan-Qiao-competition)
+- **Gitee**: [Preparing for the Lan Qiao competition: 自己备战蓝桥杯时刷题的过程和思路](https://gitee.com/haohao6/preparing-for-the-lan-qiao-competition)
+- **Author:** [浩浩同学 (haohao6) - Gitee.com](https://gitee.com/haohao6), [RookieHaohao](https://github.com/RookieHaohao)
