@@ -47,15 +47,11 @@ void printBoard(const vector<vector<int>>& board) {
 int countTotal( vector<vector<int>> & board,int x, int y){
     if (x == N) {
 		int black = 0;
-		//int white = 0;
 	    for(int i = 0; i < N; i++){
 	       for(int j = 0; j < N; j++){
 			  if(board[i][j] == 1){
 				  black++;
 			 	}
-//				else if(board[i][j] == 2){
-//					white++;
-//				}
 			}
 	 	}
 		if(black != 13) {
@@ -63,17 +59,13 @@ int countTotal( vector<vector<int>> & board,int x, int y){
 		}
 		return 1;
 	}
+	
 	if(y == N) return countTotal(board, x + 1, 0);
 	
 	int total = 0;
 	for(int player = 1; player <= 2; player++){
 		board[x][y] = player;
-		//printBoard(board); 
-		//bool is = checkWin(board, x, y);
-
 		if(!checkWin(board, x, y)){
-			//cout << "total" << total;
-			//printf("\n--------------------------\n") ;
 			total += countTotal(board, x, y + 1);
 		}
 		board[x][y] = 0;
